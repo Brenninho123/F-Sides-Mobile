@@ -1,0 +1,23 @@
+{
+	"events": [
+		[
+			62314.2857142857,
+			[
+				["Play Animation", "singRIGHTmiss", "dad"]
+			]
+		],
+		[
+			62485.7142857143,
+			[
+				["Play Animation", "singLEFTmiss", "dad"]
+			]
+		],
+		[
+			62657.1428571429,
+			[
+				["Play Animation", "singRIGHTmiss", "dad"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}
