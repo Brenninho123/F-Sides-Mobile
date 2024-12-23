@@ -10,7 +10,7 @@
 		},
 		{
 			"loop": false,
-			"offsets": [5, -6],
+			"offsets": [37, 28],
 			"anim": "singLEFT",
 			"fps": 24,
 			"name": "BF NOTE LEFT0",
@@ -18,7 +18,7 @@
 		},
 		{
 			"loop": false,
-			"offsets": [-20, -51],
+			"offsets": [10, -61],
 			"anim": "singDOWN",
 			"fps": 24,
 			"name": "BF NOTE DOWN0",
@@ -26,7 +26,7 @@
 		},
 		{
 			"loop": false,
-			"offsets": [-46, 37],
+			"offsets": [-44, 76],
 			"anim": "singUP",
 			"fps": 24,
 			"name": "BF NOTE UP0",
@@ -34,7 +34,7 @@
 		},
 		{
 			"loop": false,
-			"offsets": [-48, -7],
+			"offsets": [-38, 8],
 			"anim": "singRIGHT",
 			"fps": 24,
 			"name": "BF NOTE RIGHT0",
@@ -57,54 +57,54 @@
 			"indices": []
 		},
 		{
-			"loop": false,
-			"offsets": [-46, 17],
-			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "BF miss in general",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [-46, 17],
-			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "BF miss in general",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [-46, 17],
-			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "BF miss in general",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [-46, 17],
-			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "BF miss in general",
-			"indices": []
-		},
-		{
 			"offsets": [190, -221],
 			"loop": true,
 			"fps": 24,
 			"anim": "dead",
 			"indices": [],
 			"name": "BF Dead Loop"
+		},
+		{
+			"loop": false,
+			"offsets": [26, 24],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [10, -36],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-34, 6],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-37, 80],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP MISS",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/darnellBlazin/New Folder/boyfuck",
 	"position": [0, 335],
 	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [235, 76, 80],
-	"camera_position": [240, 50],
+	"camera_position": [200, -30],
 	"sing_duration": 4,
 	"scale": 1,
 	"_editor_isPlayer": true

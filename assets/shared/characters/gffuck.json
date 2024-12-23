@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 130],
+			"loop": false,
+			"anim": "cheer",
+			"fps": 24,
+			"name": "GF Cheer",
+			"indices": []
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GF left note",
+			"indices": []
+		},
+		{
+			"offsets": [0, -10],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GF Down Note",
+			"indices": []
+		},
+		{
+			"offsets": [0, 23],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GF Up Note",
+			"indices": []
+		},
+		{
+			"offsets": [0, -3],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GF Right Note",
+			"indices": []
+		},
+		{
+			"offsets": [0, 0],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GF Dancing Beat"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/darnellBlazin/New Folder/girlfuck",
+	"position": [0, 120],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [205, 140, 235],
+	"camera_position": [-150, -130],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
