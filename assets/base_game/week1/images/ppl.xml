@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ppl.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="people instance 10000" x="0" y="0" width="1857" height="1148" pivotX="275.35" pivotY="811.75" frameX="0" frameY="0" frameWidth="1857" frameHeight="1159"/>
+	<SubTexture name="people instance 10001" x="0" y="0" width="1857" height="1148" frameX="0" frameY="0" frameWidth="1857" frameHeight="1159"/>
+	<SubTexture name="people instance 10002" x="0" y="0" width="1857" height="1148" frameX="0" frameY="0" frameWidth="1857" frameHeight="1159"/>
+	<SubTexture name="people instance 10003" x="0" y="0" width="1857" height="1148" frameX="0" frameY="0" frameWidth="1857" frameHeight="1159"/>
+	<SubTexture name="people instance 10004" x="0" y="1153" width="1857" height="1159"/>
+	<SubTexture name="people instance 10005" x="0" y="1153" width="1857" height="1159"/>
+	<SubTexture name="people instance 10006" x="0" y="1153" width="1857" height="1159"/>
+	<SubTexture name="people instance 10007" x="0" y="1153" width="1857" height="1159"/>
+</TextureAtlas>
