@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Fpookeez (Fico Fix)", "spooky", [34, 51, 68]]
+	],
+
+	"weekCharacters": [
+		"spooky",
+		"pico",
+		"gf"
+	],
+	"weekBackground": "halloween2",
+
+	"storyName": "Spooky Month 2",
+	"weekBefore": "week2",
+	"weekName": "Week 22",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

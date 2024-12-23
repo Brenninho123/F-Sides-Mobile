@@ -1,0 +1,43 @@
+{
+	"storyName": "Faddy Fearest",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Fopeebo",
+			"dad",
+			[
+				255,
+				173,
+				113
+			]
+		],
+		[
+			"Fresh",
+			"dad",
+			[
+				255,
+				173,
+				113
+			]
+		],
+		[
+			"Fad Fattle",
+			"dad",
+			[
+				255,
+				173,
+				113
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}

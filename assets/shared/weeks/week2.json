@@ -1,0 +1,43 @@
+{
+	"storyName": "Fpooky Fonth",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Fpookeez",
+			"spooky",
+			[
+				14,
+				151,
+				88
+			]
+		],
+		[
+			"Fouth",
+			"spooky",
+			[
+				14,
+				151,
+				88
+			]
+		],
+		[
+			"Fonster",
+			"monster",
+			[
+				14,
+				151,
+				88
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2"
+}

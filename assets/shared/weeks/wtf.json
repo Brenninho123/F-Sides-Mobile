@@ -1,0 +1,25 @@
+{
+	"storyName": "sonic.exe har har har har scary",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekBefore": "week3",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Fndless",
+			"majin",
+			[
+				148,
+				82,
+				83
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Wtf"
+}

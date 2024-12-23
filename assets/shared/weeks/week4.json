@@ -1,0 +1,43 @@
+{
+	"storyName": "FOMMY FUST FURDER",
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"weekBefore": "week3",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"mom",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Fatin Fanties",
+			"mom",
+			[
+				255,
+				90,
+				135
+			]
+		],
+		[
+			"Figh",
+			"mom",
+			[
+				255,
+				90,
+				135
+			]
+		],
+		[
+			"Filf",
+			"mom",
+			[
+				255,
+				90,
+				135
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 4"
+}

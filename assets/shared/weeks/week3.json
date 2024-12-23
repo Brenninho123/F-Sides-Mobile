@@ -1,0 +1,43 @@
+{
+	"storyName": "FICO",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekBefore": "week2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Fico",
+			"pico",
+			[
+				48,
+				180,
+				183
+			]
+		],
+		[
+			"Fhilly Fice",
+			"pico",
+			[
+				48,
+				180,
+				183
+			]
+		],
+		[
+			"Flammed",
+			"pico",
+			[
+				48,
+				180,
+				183
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 3"
+}

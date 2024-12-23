@@ -1,0 +1,26 @@
+{
+	"storyName": "yea i'm really sorry about that",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekBefore": "wtf",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Pibby Indie Cross",
+			"indiecross",
+			[
+				48,
+				42,
+				63
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"hiddenUntilUnlocked": true,
+	"weekName": "Wtf"
+}
